@@ -10,7 +10,7 @@ def home():
 
 @app.route("/health")
 def health():
-    return "OK"
+    return "hello kumar"
 
 
 if __name__ == "__main__":
